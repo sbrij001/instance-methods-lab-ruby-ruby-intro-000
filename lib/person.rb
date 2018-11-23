@@ -1,5 +1,5 @@
 class Person
   def walk
-    "The Person is walking"
-  end 
+  puts "The Person is walking"
+  end
 end
